@@ -1,4 +1,4 @@
-BOT_API_TOKEN = '6282567193:AAFk8q0Hw3DNsBZD3C3LS0EDr6WCkmWp9EQ' #yout token
+BOT_API_TOKEN = '' #yout token
 HOST = 'https://api.openweathermap.org'
 WEATHER_API_KEY = '9b0e1af96e47e4f2422df8f32b7c65f3'
 
